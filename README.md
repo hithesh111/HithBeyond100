@@ -19,8 +19,12 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day102.ipynb
 Watched lectures from sentdex's NLP with Python and NLTK course on Youtube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day103.ipynb
 
-
 <b>Day 104 - Support Vector Machines </b><br>
 <i>15th March</i></br>
 Watched video from Statquest on Youtube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day104.ipynb
+
+<b>Day 105 - Support Vector Machines </b><br>
+<i>16th March</i></br>
+Watched video from Statquest on Youtube.<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day105.ipynb
