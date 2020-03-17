@@ -28,3 +28,8 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day104.ipynb
 <i>16th March</i></br>
 Watched video from Statquest on Youtube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day105.ipynb
+
+<b>Day 106 - Support Vector Machines </b><br>
+<i>17th March</i></br>
+Watched video from Statquest on Youtube.<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day106.ipynb
