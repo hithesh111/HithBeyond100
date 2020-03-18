@@ -24,12 +24,17 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day103.ipynb
 Watched video from Statquest on Youtube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day104.ipynb
 
-<b>Day 105 - Support Vector Machines </b><br>
+<b>Day 105 - SVM Polynomial Kernel</b><br>
 <i>16th March</i></br>
 Watched video from Statquest on Youtube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day105.ipynb
 
-<b>Day 106 - Support Vector Machines </b><br>
+<b>Day 106 - SVM Radial Kernel </b><br>
 <i>17th March</i></br>
 Watched video from Statquest on Youtube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day106.ipynb
+
+<b>Day 107 - K Nearest Neighbours</b><br>
+<i>18th March</i></br>
+Watched video from Statquest on Youtube.<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day107.ipynb
