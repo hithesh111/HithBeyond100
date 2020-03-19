@@ -38,3 +38,8 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day106.ipynb
 <i>18th March</i></br>
 Watched video from Statquest on Youtube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day107.ipynb
+
+<b>Day 108 - Principal Component Analysis</b><br>
+<i>19th March</i></br>
+Watched video from Statquest on Youtube.<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day108.ipynb
