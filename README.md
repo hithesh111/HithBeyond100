@@ -53,3 +53,8 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day109.ipynb
 <i>21st March</i></br>
 Read Wikipedia page on Principal Component Analysis. <br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day110.ipynb
+
+<b>Day 111 - PCA with Python</b><br>
+<i>22nd March</i></br>
+Watched video from Statquest on Youtube.<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day111.ipynb
