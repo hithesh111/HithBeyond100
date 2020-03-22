@@ -50,6 +50,6 @@ Watched video from Statquest on Youtube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day109.ipynb
 
 <b>Day 110 - Principal Component Analysis</b><br>
-<i>20th March</i></br>
+<i>21st March</i></br>
 Read Wikipedia page on Principal Component Analysis. <br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day110.ipynb
