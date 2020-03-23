@@ -59,7 +59,7 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day110.ipynb
 Watched video from Statquest on Youtube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day111.ipynb
 
-<b>Day 112 - </b><br>
-<i>23nd March</i></br>
-<br>
+<b>Day 112 - Statistics for Data Science</b><br>
+<i>23rd March</i></br>
+<br> Watched videos from Mike Marin's Statistics course on YouTube. 
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day112.ipynb
