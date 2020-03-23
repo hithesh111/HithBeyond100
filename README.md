@@ -58,3 +58,8 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day110.ipynb
 <i>22nd March</i></br>
 Watched video from Statquest on Youtube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day111.ipynb
+
+<b>Day 112 - </b><br>
+<i>23nd March</i></br>
+<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day112.ipynb
