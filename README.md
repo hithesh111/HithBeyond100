@@ -63,3 +63,8 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day111.ipynb
 <i>23rd March</i></br>
 <br> Watched videos from Mike Marin's Statistics course on YouTube. 
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day112.ipynb
+
+<b>Day 113 - Statistics for Data Science</b><br>
+<i>24th March</i></br>
+<br> Watched videos from Mike Marin's Statistics course on YouTube. 
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day113.ipynb
