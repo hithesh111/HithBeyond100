@@ -4,9 +4,9 @@ Continuation of 100 Days of ML Challenge after completion.
 
 100 Days Challenge : https://github.com/hithesh111/Hith100
 
-<b>Code Available</b>
+<b>Mini-projects, Implementations, Illustrations and Competition Submissions (For quick reference)</b>
 <ul>
-  <li>Day 117 - Illustration of Universal Law of Standard Uniform</li>
+  <li>Illustration of Universal Law of Standard Uniform - Day 117</li>
 </ul>
 
 <b>Day 101 - Voted Classifier</b><br>
