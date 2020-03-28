@@ -78,3 +78,8 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day114.ipynb
 <i>26th March</i></br>
 Watched videos from Mike Marin's Statistics course on YouTube. 
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day115.ipynb
+
+<b>Day 116 - General Adversarial Networkd</b><br>
+<i>27th March</i></br>
+Watched an introductory video on GANs on YouTube. 
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day116.ipynb
