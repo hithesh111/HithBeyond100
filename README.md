@@ -6,7 +6,7 @@ Continuation of 100 Days of ML Challenge after completion.
 
 <b>Code Available</b>
 <ul>
-Day 117
+  <li>Day 117 - Illustration of Universal Law of Standard Uniform</li>
 </ul>
 
 <b>Day 101 - Voted Classifier</b><br>
