@@ -61,25 +61,25 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day111.ipynb
 
 <b>Day 112 - Statistics for Data Science</b><br>
 <i>23rd March</i></br>
-Watched videos from Mike Marin's Statistics course on YouTube. 
+Watched videos from Mike Marin's Statistics course on YouTube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day112.ipynb
 
 <b>Day 113 - Statistics for Data Science</b><br>
 <i>24th March</i></br>
-Watched videos from Mike Marin's Statistics course on YouTube. 
+Watched videos from Mike Marin's Statistics course on YouTube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day113.ipynb
 
 <b>Day 114 - Statistics for Data Science</b><br>
 <i>25th March</i></br>
-Watched videos from Mike Marin's Statistics course on YouTube. 
+Watched videos from Mike Marin's Statistics course on YouTube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day114.ipynb
 
 <b>Day 115 - Statistics for Data Science</b><br>
 <i>26th March</i></br>
-Watched videos from Mike Marin's Statistics course on YouTube. 
+Watched videos from Mike Marin's Statistics course on YouTube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day115.ipynb
 
 <b>Day 116 - General Adversarial Networkd</b><br>
 <i>27th March</i></br>
-Watched an introductory video on GANs on YouTube. 
+Watched an introductory video on GANs on YouTube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day116.ipynb
