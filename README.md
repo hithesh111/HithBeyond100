@@ -79,7 +79,12 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day114.ipynb
 Watched videos from Mike Marin's Statistics course on YouTube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day115.ipynb
 
-<b>Day 116 - General Adversarial Networkd</b><br>
+<b>Day 116 - General Adversarial Networks</b><br>
 <i>27th March</i></br>
 Watched an introductory video on GANs on YouTube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day116.ipynb
+
+<b>Day 117 - Sampling from Distributions using Universal Law of Standard Uniform</b><br>
+<i>28th March</i></br>
+Wrote code to generate and visualize a random sample from a distribution with a known CDF by sampling from a Standard Uniform Distribution and applying Universal Law.<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day117.ipynb
