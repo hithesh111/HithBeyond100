@@ -93,3 +93,8 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day116.ipynb
 <i>28th March</i></br>
 Wrote code to generate and visualize a random sample from a distribution with a known CDF by sampling from a Standard Uniform Distribution and applying Universal Law.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day117.ipynb
+
+<b>Day 118 - Motion Deep Fake</b><br>
+<i>29th March</i></br>
+Watched a video on imitating motion and facial movements from 2 Minute Papers on YouTube<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day118.ipynb
