@@ -94,7 +94,17 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day116.ipynb
 Wrote code to generate and visualize a random sample from a distribution with a known CDF by sampling from a Standard Uniform Distribution and applying Universal Law.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day117.ipynb
 
-<b>Day 118 - Motion Deep Fake</b><br>
+<b>Day 118 - Everybody Can Make DeepFakes Now</b><br>
 <i>29th March</i></br>
-Watched a video on imitating motion and facial movements from 2 Minute Papers on YouTube<br>
+Watched a video 'Everybody Can Make DeepFakes Now' from 2 Minute Papers on YouTube<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day118.ipynb
+
+<b>Day 119 - Can Self Driving Cars Learn Depth Perception</b><br>
+<i>30th March</i></br>
+Watched a video ' Can Self Driving Cars Learn Depth Perception' from 2 Minute Papers on YouTube<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day119.ipynb
+
+<b>Day 120 - Google's Chatbot: Almost Perfect</b><br>
+<i>31st March</i></br>
+Watched a video 'Google's Chatbot: Almost Perfect' from 2 Minute Papers on YouTube<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day120.ipynb
