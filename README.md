@@ -108,3 +108,8 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day119.ipynb
 <i>31st March</i></br>
 Watched a video 'Google's Chatbot: Almost Perfect' from 2 Minute Papers on YouTube<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day120.ipynb
+
+<b>Day 121 - This Neural Network Regenerates…Kind Of</b><br>
+<i>1st April</i></br>
+Watched a video 'This Neural Network Regenerates…Kind Of' from 2 Minute Papers on YouTube<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day121.ipynb
