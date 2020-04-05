@@ -113,3 +113,18 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day120.ipynb
 <i>1st April</i></br>
 Watched a video 'This Neural Network Regenerates…Kind Of' from 2 Minute Papers on YouTube<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day121.ipynb
+
+<b>Day 122 - Statistics for Data Science</b><br>
+<i>2nd April March</i></br>
+Watched videos from Mike Marin's Statistics course on YouTube.<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day122.ipynb
+
+<b>Day 123 - OpenAI Plays Hide and Seek…and Breaks The Game!</b><br>
+<i>3rd April</i></br>
+Watched a video 'OpenAI Plays Hide and Seek…and Breaks The Game!' from 2 Minute Papers on YouTube<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day123.ipynb
+
+<b>Day 124 - This AI Senses Humans Through Walls</b><br>
+<i>4th April</i></br>
+Watched a video 'This AI Senses Humans Through Walls' from 2 Minute Papers on YouTube<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day124.ipynb
