@@ -126,5 +126,15 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day123.ipynb
 
 <b>Day 124 - This AI Senses Humans Through Walls</b><br>
 <i>4th April</i></br>
-Watched a video 'This AI Senses Humans Through Walls' from 2 Minute Papers on YouTube<br>
+Watched a vi5deo 'This AI Senses Humans Through Walls' from 2 Minute Papers on YouTube<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day124.ipynb
+
+<b>Day 125 - AI Learns To Compute Game Physics In Microseconds</b><br>
+<i>5th April</i></br>
+Watched a video 'AI Learns To Compute Game Physics In Microseconds' from 2 Minute Papers on YouTube<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day125.ipynb
+
+<b>Day 126 - This AI Learned To Animate Humanoid</b><br>
+<i>6th April</i></br>
+Watched a video 'This AI Learned To Animate Humanoids' from 2 Minute Papers on YouTube<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day126.ipynb
