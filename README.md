@@ -115,7 +115,7 @@ Watched a video 'This Neural Network Regenerates…Kind Of' from 2 Minute Papers
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day121.ipynb
 
 <b>Day 122 - Statistics for Data Science</b><br>
-<i>2nd April March</i></br>
+<i>2nd April </i></br>
 Watched videos from Mike Marin's Statistics course on YouTube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day122.ipynb
 
@@ -138,3 +138,18 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day125.ipynb
 <i>6th April</i></br>
 Watched a video 'This AI Learned To Animate Humanoids' from 2 Minute Papers on YouTube<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day126.ipynb
+
+<b>Day 127 - Statistics for Data Science</b><br>
+<i>7th April </i></br>
+Watched videos from Mike Marin's Statistics course on YouTube.<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day127.ipynb
+
+<b>Day 128 - Statistics for Data Science</b><br>
+<i>8th April </i></br>
+Watched videos from Mike Marin's Statistics course on YouTube.<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day128.ipynb
+
+<b>Day 129 - Statistics for Data Science</b><br>
+<i>9th April </i></br>
+Watched videos from Mike Marin's Statistics course on YouTube.<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day129.ipynb
