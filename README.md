@@ -155,6 +155,6 @@ Watched videos from Mike Marin's Statistics course on YouTube.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day129.ipynb
 
 <b>Days 130-132 - ECommerce ML Hackathon Analytics Vidhya</b><br>
-<i>9th April </i></br>
+<i>10th April - 12th April</i></br>
 The problem is to predict gender of a user given date-time and list of products viewed.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day130-132.ipynb
