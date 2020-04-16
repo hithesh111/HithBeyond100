@@ -164,3 +164,13 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/days130-132.ipynb
 <i>13th April</i></br>
 Documented the code, wrote the approach and made a repo.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/days133.ipynb
+
+<b>Day 134 - AI Explainability Masterclass IBM</b><br>
+<i>14th April</i></br>
+Watched lectures from the course<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/days134.ipynb
+
+<b>Day 135 - AI Explainability Masterclass IBM</b><br>
+<i>15th April</i></br>
+Completed the course and took a quiz. <br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/days135.ipynb
