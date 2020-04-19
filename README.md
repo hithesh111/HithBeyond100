@@ -163,14 +163,29 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/days130-132.ipynb
 <b>Day 133 - ECommerce ML Hackathon Analytics Vidhya - Tidying up the code</b><br>
 <i>13th April</i></br>
 Documented the code, wrote the approach and made a repo.<br>
-https://github.com/hithesh111/HithBeyond100/blob/master/Days/days133.ipynb
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day133.ipynb
 
 <b>Day 134 - AI Explainability Masterclass IBM</b><br>
 <i>14th April</i></br>
 Watched lectures from the course<br>
-https://github.com/hithesh111/HithBeyond100/blob/master/Days/days134.ipynb
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day134.ipynb
 
 <b>Day 135 - AI Explainability Masterclass IBM</b><br>
 <i>15th April</i></br>
 Completed the course and took a quiz. <br>
-https://github.com/hithesh111/HithBeyond100/blob/master/Days/days135.ipynb
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day135.ipynb
+
+<b>Day 136 - Papers with Code</b><br>
+<i>16th April</i></br>
+Watched a Papers with Code video.<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day136.ipynb
+
+<b>Day 137 - Papers with Code</b><br>
+<i>17th April</i></br>
+Watched a Papers with Code video.<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day137.ipynb
+
+<b>Days 138-139 - JanataHack NLP Hackathon</b><br>
+<i>18th-19th April</i></br>
+Participating and working on NLP Hackathon problem<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/days138-139.ipynb
