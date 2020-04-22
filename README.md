@@ -7,7 +7,7 @@ Continuation of 100 Days of ML Challenge after completion.
 <b>Mini-projects, Implementations, Illustrations and Competition Submissions (For quick reference)</b>
 <ul>
   <li>Illustration of Universal Law of Standard Uniform - Day 117</li>
-  <li>10th rank submission in Analytics Vidhya E-Commerce Analytics ML Hackathon - Days 130-132</li>
+   <li>8th rank submission in Analytics Vidhya E-Commerce Analytics ML Hackathon - Days 130-132</li>
 </ul>
 
 <b>Day 101 - Voted Classifier</b><br>
