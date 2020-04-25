@@ -185,7 +185,7 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day136.ipynb
 Watched a Papers with Code video.<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day137.ipynb
 
-<b>Days 138-143 - JanataHack NLP Hackathon</b><br>
-<i>18th-23rd April</i></br>
+<b>Days 138-145 - JanataHack NLP Hackathon</b><br>
+<i>18th-25th April</i></br>
 Participating and working on NLP Hackathon problem<br>
-https://github.com/hithesh111/HithBeyond100/blob/master/Days/days138-143.ipynb
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/days138-145.ipynb
