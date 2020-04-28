@@ -190,7 +190,12 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day137.ipynb
 Participating and working on NLP Hackathon problem<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/days138-145.ipynb
 
-<b>Days 146 - IBM Applied Data Science Specialization</b><br>
+<b>Days 146 - IBM Applied Data Science Specialization (Course 1) </b><br>
 <i>26th April</i></br>
 Completed 'Python for Data Science and AI' course and got certified as part of the 4-course specialization which was availed for free using a promo code.<br>
+https://github.com/hithesh111/IBM-Applied-Data-Science-Specialization
+
+<b>Days 147 - IBM Applied Data Science Specialization (Course 2)</b><br>
+<i>27th April</i></br>
+Completed 'Data Analysis Using Python' course and got certified as part of the 4-course specialization<br>
 https://github.com/hithesh111/IBM-Applied-Data-Science-Specialization
