@@ -199,3 +199,7 @@ https://github.com/hithesh111/IBM-Applied-Data-Science-Specialization
 <i>27th April</i></br>
 Completed 'Data Analysis Using Python' course and got certified as part of the 4-course specialization<br>
 https://github.com/hithesh111/IBM-Applied-Data-Science-Specialization
+
+<b>Days 148 - 149 AI Explainability Hackathon IBM</b><br>
+<i>28th-29th April</i></br>
+Working on the project submission as part of the course. <br>
