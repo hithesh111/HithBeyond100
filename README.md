@@ -204,3 +204,12 @@ https://github.com/hithesh111/IBM-Applied-Data-Science-Specialization
 <b>Days 148 - 149 AI Explainability Hackathon IBM</b><br>
 <i>28th-29th April</i></br>
 Working on the project submission as part of the course. <br>
+
+<b>Days 150 - State of the Art NLP Models (Course 2)</b><br>
+<i>30th April</i></br>
+Watched a Youtube video on State of the Art NLP models<br>
+https://github.com/hithesh111/HithBeyond100/blob/master/Days/day150.ipynb
+
+<b>Days 151 - 152 - Time Series Forecasting Hackathon Analytics Vidhya</b><br>
+<i>1st-2nd May</i></br>
+Participating and working on Time Series Forecasting problem.<br>
