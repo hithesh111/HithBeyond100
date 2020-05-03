@@ -210,6 +210,6 @@ Working on the project submission as part of the course. <br>
 Watched a Youtube video on State of the Art NLP models<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day150.ipynb
 
-<b>Days 151 - 152 - Time Series Forecasting Hackathon Analytics Vidhya</b><br>
-<i>1st-2nd May</i></br>
-Participating and working on Time Series Forecasting problem.<br>
+<b>Days 151 - 153 - Time Series Forecasting Hackathon Analytics Vidhya</b><br>
+<i>1st-3rd May</i></br>
+Working on the time Series Forecasting problem.<br>
