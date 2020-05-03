@@ -205,7 +205,7 @@ https://github.com/hithesh111/IBM-Applied-Data-Science-Specialization
 <i>28th-29th April</i></br>
 Working on the project submission as part of the course. <br>
 
-<b>Days 150 - State of the Art NLP Models (Course 2)</b><br>
+<b>Days 150 - State of the Art NLP Models</b><br>
 <i>30th April</i></br>
 Watched a Youtube video on State of the Art NLP models<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day150.ipynb
