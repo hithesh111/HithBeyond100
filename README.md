@@ -190,6 +190,7 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day137.ipynb
 <i>18th-25th April</i></br>
 Participating and working on NLP Hackathon problem<br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/days138-145.ipynb
+https://github.com/hithesh111/JanataHack-Sentiment-Analysis-Hackathon-Analytics-Vidhya
 
 <b>Days 146 - IBM Applied Data Science Specialization (Course 1) </b><br>
 <i>26th April</i></br>
@@ -212,4 +213,8 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day150.ipynb
 
 <b>Days 151 - 153 - Time Series Forecasting Hackathon Analytics Vidhya</b><br>
 <i>1st-3rd May</i></br>
-Working on the time Series Forecasting problem.<br>
+Worked on the time Series Forecasting problem.<br>
+
+<b>Days 154 - Documented NLP Hackathon code</b><br>
+<i>4th May</i></br>
+https://github.com/hithesh111/JanataHack-Sentiment-Analysis-Hackathon-Analytics-Vidhya
