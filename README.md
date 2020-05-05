@@ -218,3 +218,8 @@ Worked on the time Series Forecasting problem.<br>
 <b>Days 154 - Documented NLP Hackathon code</b><br>
 <i>4th May</i></br>
 https://github.com/hithesh111/JanataHack-Sentiment-Analysis-Hackathon-Analytics-Vidhya
+
+<b>Days 155 - IBM Applied Data Science Specialization (Course 3)</b><br>
+<i>5th May</i></br>
+Completed most of 'Data Visualization with Python' course<br>
+https://github.com/hithesh111/IBM-Applied-Data-Science-Specialization
