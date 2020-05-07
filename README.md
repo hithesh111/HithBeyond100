@@ -223,3 +223,8 @@ https://github.com/hithesh111/JanataHack-Sentiment-Analysis-Hackathon-Analytics-
 <i>5th May</i></br>
 Completed most of 'Data Visualization with Python' course<br>
 https://github.com/hithesh111/IBM-Applied-Data-Science-Specialization
+
+<b>Days 156 - IBM Applied Data Science Specialization (Courses 3 and 4)</b><br>
+<i>5th May</i></br>
+Completed and got certified in 'Data Visualization with Python' course and started the Capstone Project<br>
+https://github.com/hithesh111/IBM-Applied-Data-Science-Specialization
