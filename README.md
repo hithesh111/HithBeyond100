@@ -227,5 +227,15 @@ https://github.com/hithesh111/IBM-Applied-Data-Science-Specialization
 <b>Days 156 - IBM Applied Data Science Specialization (Courses 3 and 4)</b><br>
 <i>6th May</i></br>
 Completed and got certified in 'Data Visualization with Python' course and started the Capstone Project<br>
-https://github.com/hithesh111/IBM-Applied-Data-Science-Specialization
+https://github.com/hithesh111/IBM-Applied-Data-Science-Specialization<br>
 https://github.com/hithesh111/Coursera_Capstone
+
+<b>Days 157-158 - Capstone Project(IBM Applied Data Science Specialization)</b><br>
+<i>7th-8th May</i></br>
+Worked on the Capstone Project of the Specialization<br>
+https://github.com/hithesh111/IBM-Applied-Data-Science-Specialization<br>
+https://github.com/hithesh111/Coursera_Capstone
+
+<b>Days 159 - 160 - JanataHack HR Analytics Hackathon Analytics Vidhya</b><br>
+<i>9th-10th May</i></br>
+Worked on the HR Analytics problems<br>
