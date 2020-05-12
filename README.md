@@ -239,3 +239,11 @@ https://github.com/hithesh111/Coursera_Capstone
 <b>Days 159 - 160 - JanataHack HR Analytics Hackathon Analytics Vidhya</b><br>
 <i>9th-10th May</i></br>
 Worked on the HR Analytics problems<br>
+
+<b>Day 161 - Papers with Code</b><br>
+<i>11th May</i></br>
+Watched a Papers with Code video<br>
+
+<b>Day 162 - Papers with Code</b><br>
+<i>12th May</i></br>
+Watched a Papers with Code video.<br>
