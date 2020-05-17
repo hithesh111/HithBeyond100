@@ -176,15 +176,13 @@ https://github.com/hithesh111/HithBeyond100/blob/master/Days/day134.ipynb
 Completed the course and took a quiz. <br>
 https://github.com/hithesh111/HithBeyond100/blob/master/Days/day135.ipynb
 
-<b>Day 136 - Papers with Code</b><br>
+<b>Day 136 - Sure, DeepFake Detectors Exist - But Can They Be Fooled?</b><br>
 <i>16th April</i></br>
-Watched a Papers with Code video.<br>
-https://github.com/hithesh111/HithBeyond100/blob/master/Days/day136.ipynb
+Watched a Two Minute Papers video.<br>
 
-<b>Day 137 - Papers with Code</b><br>
+<b>Day 137 - Neural Network Dreams About Beautiful Natural Scenes</b><br>
 <i>17th April</i></br>
-Watched a Papers with Code video.<br>
-https://github.com/hithesh111/HithBeyond100/blob/master/Days/day137.ipynb
+Watched a Two Minute Papers video.<br>
 
 <b>Days 138-145 - JanataHack NLP Hackathon</b><br>
 <i>18th-25th April</i></br>
@@ -240,10 +238,25 @@ https://github.com/hithesh111/Coursera_Capstone
 <i>9th-10th May</i></br>
 Worked on the HR Analytics problems<br>
 
-<b>Day 161 - Papers with Code</b><br>
+<b>Day 161 - This AI Does Nothing In Games…And Still Wins!</b><br>
 <i>11th May</i></br>
-Watched a Papers with Code video<br>
+Watched a Two Minuet video<br>
 
-<b>Day 162 - Papers with Code</b><br>
+<b>Day 162 - Can We Teach a Robot Hand To Keep Learning? </b><br>
 <i>12th May</i></br>
-Watched a Papers with Code video.<br>
+Watched a Two Minute Papers video.<br>
+
+<b>Days 163-164 Capstone Project(IBM Applied Data Science Specialization)</b><br>
+<i>13th-14th May</i></br>
+Worked on the Capstone Project of the Specialization<br>
+https://github.com/hithesh111/IBM-Applied-Data-Science-Specialization<br>
+https://github.com/hithesh111/Coursera_Capstone
+
+<b>Day 165 - Statistical Power</b><br>
+<i>15th May</i></br>
+Watched a Statquest video.<br>
+
+<b>Day 166 - Two Shots of Green Screen Please</b><br>
+<i>16th May</i></br>
+Watched a Two Minute Papers video.<br>
+
