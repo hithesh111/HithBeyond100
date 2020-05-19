@@ -240,7 +240,7 @@ Worked on the HR Analytics problems<br>
 
 <b>Day 161 - This AI Does Nothing In Games…And Still Wins!</b><br>
 <i>11th May</i></br>
-Watched a Two Minuet video<br>
+Watched a Two Minute Papers video<br>
 
 <b>Day 162 - Can We Teach a Robot Hand To Keep Learning? </b><br>
 <i>12th May</i></br>
@@ -260,3 +260,16 @@ Watched a Statquest video.<br>
 <i>16th May</i></br>
 Watched a Two Minute Papers video.<br>
 
+<b>Day 167 - XGBoost Part 1</b><br>
+<i>17th May</i></br>
+Watched a Statquest video<br>
+
+<b>Day 168 - XGBoost Part 2</b><br>
+<i>18th May</i></br>
+Watched a Statquest video<br>
+
+<b>Days 169 - Capstone Project(IBM Applied Data Science Specialization)</b><br>
+<i>19th May</i></br>
+Worked on the Capstone Project of the Specialization<br>
+https://github.com/hithesh111/IBM-Applied-Data-Science-Specialization<br>
+https://github.com/hithesh111/Coursera_Capstone
