@@ -268,9 +268,9 @@ Watched a Statquest video<br>
 <i>18th May</i></br>
 Watched a Statquest video<br>
 
-<b>Day 169 - 171 Capstone Project(IBM Applied Data Science Specialization)</b><br>
-<i>19th - 21st May</i></br>
-Worked on the Capstone Project of the Specialization<br>
+<b>Day 169 - 173 Capstone Project(IBM Applied Data Science Specialization)</b><br>
+<i>19th - 23rd May</i></br>
+Worked on the Capstone Project of the Specialization and completed it. <br>
 https://github.com/hithesh111/IBM-Applied-Data-Science-Specialization<br>
 https://github.com/hithesh111/Coursera_Capstone
 
