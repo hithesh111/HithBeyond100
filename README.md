@@ -10,7 +10,7 @@ Continuation of 100 Days of ML Challenge after completion. (Till Day 173)
   <li>Illustration of Universal Law of Standard Uniform - Day 117</li>
   <li>8th rank submission in Analytics Vidhya E-Commerce Analytics ML Hackathon - Days 130-132</li>
   <li>Analytics Vidhya NLP Sentiment Analysis Hackathon - Days 138-145</li>
-  <li>Applied Data Science Specialization</li>
+  <li>Applied Data Science Specialization Project - New City Neighborhood</li>
 </ul>
 
 <b>Day 101 - Voted Classifier</b><br>
