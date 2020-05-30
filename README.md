@@ -5,11 +5,12 @@ Continuation of 100 Days of ML Challenge after completion. (Till Day 173)
 100 Days of ML Challenge : https://github.com/hithesh111/Hith100<br>
 100 Days of Deep Learning Challenge : https://github.com/hithesh111/100DaysofDeepLearning
 
-<b>Mini-projects, Implementations, Illustrations and Competition Submissions (For quick reference)</b>
+<b>Highlights (Mini-projects, Implementations, Illustrations and Competition Submissions)</b>
 <ul>
   <li>Illustration of Universal Law of Standard Uniform - Day 117</li>
   <li>8th rank submission in Analytics Vidhya E-Commerce Analytics ML Hackathon - Days 130-132</li>
   <li>Analytics Vidhya NLP Sentiment Analysis Hackathon - Days 138-145</li>
+  <li>Applied Data Science Specialization</li>
 </ul>
 
 <b>Day 101 - Voted Classifier</b><br>
